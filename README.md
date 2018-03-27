@@ -21,3 +21,4 @@ docker run -d\
 
 4 运行SpringBoot服务启动文件Startup 
  
+5 通过浏览器访问Graphite服务：http://graphite-ip/
